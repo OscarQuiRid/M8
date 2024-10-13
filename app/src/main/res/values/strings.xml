@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Practica02Conversor</string>
+
+    <string-array name="categorias_unidades">
+        <item>Peso</item>
+        <item>Volumen</item>
+        <item>Distancia</item>
+        <item>Temperatura</item>
+        <item>Capacidad Disco Duro</item>
+    </string-array>
+
+    <string-array name="peso_unidades">
+        <item>mg</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>ton</item>
+    </string-array>
+
+    <string-array name="volumen_unidades">
+        <item>ml</item>
+        <item>l</item>
+        <item>m3</item>
+    </string-array>
+
+    <string-array name="distancia_unidades">
+        <item>mm</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+
+    <string-array name="temperatura_unidades">
+        <item>C</item>
+        <item>F</item>
+        <item>K</item>
+    </string-array>
+
+    <string-array name="capacidad_disco_duro_unidades">
+        <item>bit</item>
+        <item>bytes</item>
+        <item>kb</item>
+        <item>mb</item>
+        <item>gb</item>
+        <item>tb</item>
+    </string-array>
+</resources>
